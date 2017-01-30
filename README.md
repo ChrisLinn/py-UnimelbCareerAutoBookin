@@ -2,5 +2,6 @@
 
 unimelb careersonline auto book in using python.
 
-* Please `git clone git://github.com/charlierguo/gmail.git` first
-* Then run `unimelbCareerAutoBookin.py`
+* Run `setup.py` first.
+* Run `unimelbCareerAutoBookin.py` then.
+* Powered by `GMail for Python` (git://github.com/charlierguo/gmail.git).
