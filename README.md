@@ -20,7 +20,7 @@ unimelb careersonline auto book-in using python.
 
 ## Known bugs/issues
 
-+ hasve to turn off the __Access for less secure apps__ in google account
++ have to turn off the __Access for less secure apps__ in google account
 + student email does not support OAuth, which leads to the explict use of the password
 
 
