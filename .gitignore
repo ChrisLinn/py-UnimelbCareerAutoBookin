@@ -1,3 +1,7 @@
+## sublime text editor
+*.sublime-project
+*.sublime-workspace
+
 ## Kubuntu
 .directory
 

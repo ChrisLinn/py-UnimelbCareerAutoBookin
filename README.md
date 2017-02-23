@@ -37,4 +37,4 @@ This project is licensed under the GPL License - see the
 
 ## Acknowledgments
 
-* [GMail for Python](git://github.com/charlierguo/gmail.git) module
+* [GMail for Python](https://github.com/charlierguo/gmail) module
