@@ -18,9 +18,9 @@ unimelb careersonline auto book-in using python.
 * Run `UoMCABI.py` then.
 
 
-## Known bugs
+## Known bugs/issues
 
-+ has to turn off the in google account
++ hasve to turn off the __Access for less secure apps__ in google account
 + student email does not support OAuth, which leads to the explict use of the password
 
 
