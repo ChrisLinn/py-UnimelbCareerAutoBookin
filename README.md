@@ -6,6 +6,7 @@ unimelb careersonline auto book-in using python.
 
 ### Prerequisite
 
++ Python2
 + pip
 + setuptools
 
@@ -13,7 +14,7 @@ unimelb careersonline auto book-in using python.
 ### Usage
 
 * Run `sudo python setup.py` first.
-* fill the student email address, password and checking_freqency in `config.json`.
+* fill the student email address, password and checking_freqency in `config.json`. (not needed if you choose to input those in the console directly)
 * Run `UoMCABI.py` then.
 
 
