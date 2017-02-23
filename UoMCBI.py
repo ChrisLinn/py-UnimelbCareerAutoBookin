@@ -17,10 +17,17 @@ Description:    This script using `GMail for Python`
                 event place available. 
 """
 
+
+import json
 import gmail 
 
-g = gmail.login(username, password)
+# read the config
+with open('config.json') as json_file:
+    config = json.load(json_file)
+
+g = gmail.login(config[u'username'], config[u'password'])
 
 if g.logged_in:
     print "login successfully!"
+
 g.logout()
