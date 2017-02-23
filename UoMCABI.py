@@ -73,11 +73,12 @@ while True:
                     result = response.read()
                     if "You have successfully booked in" in result:
                         print "You have successfully booked in to this event!"
+                        psb_mail.read()
                     elif "Invalid Link" in result:
                         print "You have already booked in to this event."
+                        psb_mail.read()
                     else:
                         print "You are late."
-            psb_mail.read()
     print "\nsleeping for " + str(sleep_time) + " second(s)\n"
     time.sleep(sleep_time)
 
