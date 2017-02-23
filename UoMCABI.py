@@ -78,7 +78,7 @@ while True:
                     else:
                         print "You are late."
             psb_mail.read()
-    print "\nsleeping for " + str(sleep_time) + "second(s)\n"
+    print "\nsleeping for " + str(sleep_time) + " second(s)\n"
     time.sleep(sleep_time)
 
 # log out

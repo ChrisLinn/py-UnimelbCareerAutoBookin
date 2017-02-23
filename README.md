@@ -18,6 +18,11 @@ unimelb careersonline auto book-in using python.
 * Run `UoMCABI.py` then.
 
 
+### Screenshot
+
+![Screenshot](screenshot.png)
+
+
 ## Known bugs/issues
 
 + have to turn off the __Access for less secure apps__ in google account
