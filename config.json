@@ -1,5 +1,5 @@
-config = {
-    'username' = '';
-    'password' = '';
-    'frequency' = '';
+{
+    "username": "",
+    "password": "",
+    "frequency": ""
 }
