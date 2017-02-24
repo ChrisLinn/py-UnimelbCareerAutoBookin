@@ -6,15 +6,13 @@ unimelb careersonline auto book-in using python.
 
 ### Prerequisite
 
-+ Python2
-+ pip
-+ setuptools
++ python2
++ [GMail for Python](https://github.com/charlierguo/gmail) module
 
 
 ### Usage
 
-* Run `sudo python setup.py` first.
-* fill the student email address, password and checking_freqency in `config.json`. (not needed if you choose to input those in the console directly)
+* fill the _student login name_, _password_ and _sleep-time_ in `config.json`. (not needed if you choose to input those in the console directly)
 * Run `UoMCABI.py` then.
 
 
@@ -37,4 +35,4 @@ This project is licensed under the GPL License - see the
 
 ## Acknowledgments
 
-* [GMail for Python](https://github.com/charlierguo/gmail) module
+* [Charlie Guo](https://github.com/charlierguo/)
